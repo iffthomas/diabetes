@@ -8,4 +8,3 @@ remarks:
 - silhouette coefficient idea was taken from here: https://towardsdatascience.com/evaluating-goodness-of-clustering-for-unsupervised-learning-case-ccebcfd1d4f1
 while code block was on the yellowbrick api
 
-
