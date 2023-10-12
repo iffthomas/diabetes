@@ -10,12 +10,7 @@ This Jupyter Notebook project is designed for performing various machine learnin
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Data Preparation](#data-preparation)
-- [Machine Learning](#machine-learning)
-- [Statistical Analysis](#statistical-analysis)
-- [Visualization](#visualization)
-- [Contributing](#contributing)
-- [License](#license)
+- [remarks](#remarks)
 
 ## Installation
 
